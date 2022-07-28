@@ -20,9 +20,12 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 
 ### Screeshots
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400"> |  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400">
+Solarized dark             |  Solarized Ocean          |  Solarized Ocean           |  Solarized Ocean           |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------: |:-------------------------:    
+<img 1 src="https://user-images.githubusercontent.com/80913778/181428653-bb0836e2-ab50-42ba-96a1-491b3d41929a.png" width="200" height="400">
+  | <img 2 src="https://user-images.githubusercontent.com/80913778/181428655-c65913c5-cfd1-4487-a71b-9d92180ac3c1.png" width="200" height="400"> | <img 3 src="https://user-images.githubusercontent.com/80913778/181428660-b79d7e9a-d244-4908-9848-a6e3b9c72a6b.png" width="200" height="400">
+ |  <img 4 src="https://user-images.githubusercontent.com/80913778/181428670-0715a257-6906-40af-8ef1-c9c6b91194ca.png" width="200" height="400">
+    <img 5 src="https://user-images.githubusercontent.com/80913778/181428672-5a8a5829-242a-42d0-b41d-1476b4fff271.png" width="200" height="400">
 
 
 
@@ -32,38 +35,12 @@ Solarized dark             |  Solarized Ocean
 
 
 
-<table>
-  <tr>
-    <td> <img src="https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png"  alt="1" width = 360px height = 640px ></td>
-
-    <td><img src="https://user-images.githubusercontent.com/80913778/181424676-fe458d98-5ed5-4408-aaf9-cfadc8ed3dce.png" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="https://user-images.githubusercontent.com/80913778/181424739-c3cd043a-6baa-4140-8482-71ac0d461128.png" alt="3" width = 360px height = 640px></td>
-
-      <td><img src="https://user-images.githubusercontent.com/80913778/181424754-0db24815-d3cf-47ec-9ce6-8ced37b84629.png" align="right" alt="4" width = 360px height = 640px>
-  </td>
-  </tr>
-   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/80913778/181424793-9780cc17-72c9-471f-8f30-782006db03a9.png"  alt="1" width = 360px height = 640px ></td>
-   </tr> 
-</table>
 
 
 
 <p align="center">
 <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400">
 </p>
-
-![image](https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png)
-
-![image](https://user-images.githubusercontent.com/80913778/181424676-fe458d98-5ed5-4408-aaf9-cfadc8ed3dce.png)
-
-![image](https://user-images.githubusercontent.com/80913778/181424739-c3cd043a-6baa-4140-8482-71ac0d461128.png)
-
-![image](https://user-images.githubusercontent.com/80913778/181424754-0db24815-d3cf-47ec-9ce6-8ced37b84629.png)
-
-![image](https://user-images.githubusercontent.com/80913778/181424793-9780cc17-72c9-471f-8f30-782006db03a9.png)
 
 
 
