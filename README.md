@@ -22,15 +22,7 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png))  |  ![]([https://...Ocean.png](https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png))
-
-
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400"> |  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400">
 
 
 
