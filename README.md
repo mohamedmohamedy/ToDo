@@ -23,7 +23,7 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img 1 src="https://user-images.githubusercontent.com/80913778/181428653-bb0836e2-ab50-42ba-96a1-491b3d41929a.png" width="200" height="400">  |  <img 1 src="https://user-images.githubusercontent.com/80913778/181428653-bb0836e2-ab50-42ba-96a1-491b3d41929a.png" width="200" height="400">
+<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400">  |  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400">
 
 
 
