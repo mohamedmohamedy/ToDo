@@ -20,6 +20,22 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 
 ### Screeshots
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]([https://...Dark.png](https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png))  |  ![]([https://...Ocean.png](https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png))
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table>
   <tr>
     <td> <img src="https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png"  alt="1" width = 360px height = 640px ></td>
