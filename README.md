@@ -21,7 +21,7 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 ### Video Record
 
 <p align="center">
-<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4">
+   https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4
 </p>
 
 ### Screeshots
