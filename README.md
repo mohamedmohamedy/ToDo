@@ -27,7 +27,11 @@ Board Screen                  |  Schedule screen           |  Add task Screen   
 
           
 
-
+<p float="left">
+  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430607-c11a2970-87a1-43e4-a4cf-c1630ef573f2.png" width="200" height="400"/>
+  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430609-85991013-8490-4ac5-b440-29e04c3082bc.png" width="200" height="400"/> 
+  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430620-b451b8cb-ce13-4d8e-a78a-3a27bf734972.png" width="200" height="400"/> 
+</p>
 
 
 
