@@ -34,13 +34,24 @@ I used SqFlite database to store the tasks and handel the notifications of the a
   </tr>
    <tr>
     <td> <img src="https://user-images.githubusercontent.com/80913778/181424793-9780cc17-72c9-471f-8f30-782006db03a9.png"  alt="1" width = 360px height = 640px ></td>
-
-   
    </tr> 
 </table>
 
 
 
+<p align="center">
+<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/172962842-5b23cb85-0703-418f-bd40-6650e7048b66.png" width="200" height="400">
+</p>
+
+![image](https://user-images.githubusercontent.com/80913778/181424640-bb5822fd-cdc9-4be5-9563-487235a1ee60.png)
+
+![image](https://user-images.githubusercontent.com/80913778/181424676-fe458d98-5ed5-4408-aaf9-cfadc8ed3dce.png)
+
+![image](https://user-images.githubusercontent.com/80913778/181424739-c3cd043a-6baa-4140-8482-71ac0d461128.png)
+
+![image](https://user-images.githubusercontent.com/80913778/181424754-0db24815-d3cf-47ec-9ce6-8ced37b84629.png)
+
+![image](https://user-images.githubusercontent.com/80913778/181424793-9780cc17-72c9-471f-8f30-782006db03a9.png)
 
 
 
