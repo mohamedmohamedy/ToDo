@@ -20,11 +20,11 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 
 ### Screeshots
 
-Solarized dark                  |  Solarized Ocean               |  Solarized Ocean             
+Solarized dark                  |  Solarized Ocean               |  Red Sun            
 :------------------------------:|:------------------------------:|:------------------------------:   
 <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430607-c11a2970-87a1-43e4-a4cf-c1630ef573f2.png" width="200" height="400"> | <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430609-85991013-8490-4ac5-b440-29e04c3082bc.png" width="200" height="400"> |
-Solarized dark             |  Solarized Ocean          | 
-:-------------------------:|:-------------------------:| 
+Solarized dark             |  Solarized Ocean          |  Blue Moon 
+:-------------------------:|:-------------------------:| |:-------------------------:
 <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430620-b451b8cb-ce13-4d8e-a78a-3a27bf734972.png" width="200" height="400"> |  <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430624-d431c11d-f93c-4256-8786-aca85fe20990.png" width="200" height="400"> |
 <img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181430617-c5d716d8-5e49-4290-9b97-8c4c29ba2781.png" width="200" height="400"> 
 
