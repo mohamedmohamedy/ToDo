@@ -6,10 +6,10 @@ App concept created with [Flutter](https://flutter.dev/) using Dart programming 
 
 The main purpose of this application is to help the user to remember his important tasks in an easy, simple way. the user can simply create a new task and decide when he want to be reminded and if he wish to repeat the reminder, and the application will make all the heavy work and send a notification reminder the user wished for.
 
-### Work tools
-#### Cubit 
-#### SqFlite
-#### Flutter local notification
+### Dependencies
+ Cubit 
+ SqFlite
+ Flutter local notification
 
 
 ### Design Details
@@ -19,8 +19,9 @@ the whole UI is Provided by the company.
 I used SqFlite database to store the tasks and handel the notifications of the application.
 
 ### Video Record
+
 <p align="center">
-<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4" width="200" height="400">
+<img screenshot-1654811860575 src="https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4">
 </p>
 
 ### Screeshots
