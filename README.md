@@ -19,10 +19,8 @@ the whole UI is Provided by the company.
 I used SqFlite database to store the tasks and handel the notifications of the application.
 
 ### Video Record
+https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4
 
-<p align="center">
-   https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4
-</p>
 
 ### Screeshots
 
@@ -34,5 +32,4 @@ I used SqFlite database to store the tasks and handel the notifications of the a
 
 
 
-https://user-images.githubusercontent.com/80913778/181436093-9f7ea86e-6a53-432c-a7c8-5eb921d520f2.mp4
 
