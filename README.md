@@ -36,10 +36,7 @@ Solarized dark             |  Solarized Ocean
 
 Solarized dark             |  Solarized Ocean          |  Solarized Ocean           |  Solarized Ocean           |  Solarized Ocean
 :-------------------------:|:-------------------------:|:-------------------------: |:-------------------------: |:-------------------------:    
-<img 1 src="https://user-images.githubusercontent.com/80913778/181428653-bb0836e2-ab50-42ba-96a1-491b3d41929a.png" width="200" height="400">
-  | <img 2 src="https://user-images.githubusercontent.com/80913778/181428655-c65913c5-cfd1-4487-a71b-9d92180ac3c1.png" width="200" height="400"> | <img 3 src="https://user-images.githubusercontent.com/80913778/181428660-b79d7e9a-d244-4908-9848-a6e3b9c72a6b.png" width="200" height="400">
- |  <img 4 src="https://user-images.githubusercontent.com/80913778/181428670-0715a257-6906-40af-8ef1-c9c6b91194ca.png" width="200" height="400">
-    <img 5 src="https://user-images.githubusercontent.com/80913778/181428672-5a8a5829-242a-42d0-b41d-1476b4fff271.png" width="200" height="400">
+
 
 
 
@@ -59,4 +56,9 @@ Solarized dark             |  Solarized Ocean          |  Solarized Ocean       
 
 
 
+![1](https://user-images.githubusercontent.com/80913778/181430607-c11a2970-87a1-43e4-a4cf-c1630ef573f2.png)
+![2](https://user-images.githubusercontent.com/80913778/181430609-85991013-8490-4ac5-b440-29e04c3082bc.png)
+![3](https://user-images.githubusercontent.com/80913778/181430617-c5d716d8-5e49-4290-9b97-8c4c29ba2781.png)
+![4](https://user-images.githubusercontent.com/80913778/181430620-b451b8cb-ce13-4d8e-a78a-3a27bf734972.png)
+![5](https://user-images.githubusercontent.com/80913778/181430624-d431c11d-f93c-4256-8786-aca85fe20990.png)
 
